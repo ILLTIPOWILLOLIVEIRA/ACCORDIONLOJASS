@@ -1,0 +1,45 @@
+.main{
+    border: solid 0.5px;
+    background: #f0eaea;
+    width: 50%;
+    gap: 7.8rem;
+  }
+  
+  .descricaoCabecalho{
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0.001em;
+  text-align: left;
+  
+  }
+  
+  .input{
+  border-radius: 10px;
+  }
+
+  .selecionados{
+    border: solid 0.1px;
+    display: flex;
+    padding: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 10rem;
+    display: grid;
+    justify-content: center;
+    
+  }
+
+  .title_selecionados{
+    font-weight: 600;
+    display: grid;
+    justify-content: center;
+    
+}
+
+.button_delete{
+    font-size: 16px;
+}
+
+ 
